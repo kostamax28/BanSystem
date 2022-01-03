@@ -1,5 +1,5 @@
-name: ban
-main: Ban/Main
+name: chatclear
+main: clear/Main
 author: kostamax28
 api: 3.0.0
 version: 1.0.0
